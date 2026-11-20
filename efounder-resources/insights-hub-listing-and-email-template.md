@@ -11,8 +11,8 @@ Two new resources for the Insights Hub, in the same format as "eFounder Insights
 | Field | Content |
 |---|---|
 | Title | Will Your Store Keep Up With the Holiday Rush? |
-| Description | A plain-English, 17-step checklist to keep your Shopify store fast and working from Black Friday to the January sales. Start with the five Level 1 steps in about an hour, no coding needed. |
-| Short description (if the card is tight) | 17 simple steps to keep your Shopify store fast from Black Friday to the January sales. |
+| Description | A plain-English, 17-step checklist to keep your Shopify store fast and working from the Christmas rush to the January sales. Start with the five Level 1 steps in about an hour, no coding needed. |
+| Short description (if the card is tight) | 17 simple steps to keep your Shopify store fast from the Christmas rush to the January sales. |
 | Thumbnail file | efounder-peak-traffic-speed-checklist-thumbnail.png (1200 x 630 px) |
 | Thumbnail alt text | eFounder Peak Traffic Speed Checklist thumbnail with a speedometer, a stopwatch, app blocks being cleared out and a sale-date calendar |
 | Form fields | Name, Email ID |
