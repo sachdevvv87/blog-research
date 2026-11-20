@@ -14,7 +14,7 @@ Two new resources for the Insights Hub, in the same format as "eFounder Insights
 | Description | A plain-English, 17-step checklist to keep your Shopify store fast and working from Black Friday to the January sales. Start with the five Level 1 steps in about an hour, no coding needed. |
 | Short description (if the card is tight) | 17 simple steps to keep your Shopify store fast from Black Friday to the January sales. |
 | Thumbnail file | efounder-peak-traffic-speed-checklist-thumbnail.png (1200 x 630 px) |
-| Thumbnail alt text | eFounder Peak Traffic Speed Checklist thumbnail with a store page, a speed gauge and a holiday sale plan |
+| Thumbnail alt text | eFounder Peak Traffic Speed Checklist thumbnail with a speedometer, a stopwatch, app blocks being cleared out and a sale-date calendar |
 | Form fields | Name, Email ID |
 | Form button label | Send Me the Checklist |
 
@@ -42,7 +42,7 @@ Two new resources for the Insights Hub, in the same format as "eFounder Insights
 | Description | 15 ready-to-send replies to the questions Shopify customers ask most over the holidays, from "Where is my order?" to gift returns. Save them once in Gmail or Shopify Inbox and answer in seconds. |
 | Short description (if the card is tight) | 15 ready-to-send replies to the questions Shopify customers ask most over the holidays. |
 | Thumbnail file | efounder-holiday-customer-service-replies-thumbnail.png (1200 x 630 px) |
-| Thumbnail alt text | eFounder Holiday Customer Service Replies thumbnail with a customer inbox, saved replies and a reply ready to send |
+| Thumbnail alt text | eFounder Holiday Customer Service Replies thumbnail with a stack of repeated customer questions, a saved-reply token, a paper plane and a gift box |
 | Form fields | Name, Email ID |
 | Form button label | Send Me the Guide |
 
