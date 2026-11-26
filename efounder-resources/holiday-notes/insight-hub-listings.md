@@ -68,8 +68,8 @@ Every PDF is 4 pages. Every thumbnail is 1200 x 630 px. Form fields: Name, Email
 
 | Field | Content |
 |---|---|
-| Title | Can Your Store Stay Calm on Its Busiest Holiday Day? |
-| Description | Your biggest holiday days deserve a calm store. Eight small, no-code steps to keep things quick and steady from the first sale to the last. |
+| Title | Can Your Store Stay Calm When the Holiday Rush Peaks? |
+| Description | Your biggest sale days deserve a calm store. Eight small, no-code steps to keep things quick and steady from the first sale to the last. |
 | Short description | Keep a busy store calm and steady through every big holiday sale. |
 | What the store owner is facing | In the holiday rush, lots of shoppers arrive at the same time. A slow page, or a last-minute change on a sale day, can cost you more in an hour than it would have taken to avoid. A little care before each big sale keeps your best weeks safe. |
 | PDF file | eFounder-Holiday-Notes-The-Steady-Season.pdf |
