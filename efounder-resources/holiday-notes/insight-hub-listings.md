@@ -2,7 +2,7 @@
 
 Six free resources for Shopify store owners, one per guide per Insight Hub category (monthly revenue). Each has its own name, title, thumbnail, description, founder lessons and toolkit. The 8 steps or 8 replies inside are shared across the three versions of each guide.
 
-What no one else offers: real lessons, quoted word for word, from founders eFounder has interviewed, plus a toolkit made for each store size.
+What no one else offers: lessons from founders eFounder has interviewed, in their own words, plus a toolkit made for each store size.
 
 | Insight Hub category | Store speed | Customer replies |
 |---|---|---|
@@ -12,7 +12,15 @@ What no one else offers: real lessons, quoted word for word, from founders eFoun
 
 Every PDF is 6 pages. Every thumbnail is 1200 x 630 px. Form fields: Name, Email ID. Form button: **Send Me the Notes**.
 
-**Before publishing:** the founder lessons quote the interview drafts for Octavian Contis, Ann Engelbrecht, Daniel Brady and Jianshuang Lai. Please confirm each founder has approved their interview for publication.
+**Founder quotes:** each PDF quotes three founders, using only the quote from the hero image of their published eFounder interview, with their name and title as shown on that image:
+
+| Founder | Title | Hero image quote | Article |
+|---|---|---|---|
+| Octavian Contis | Founder, oContis Studio | “I’m not interested in building more Shopify code. I’m interested in building the right thing, and knowing when the right answer is to remove what’s already there.” | efounder.club/power-of-restraint |
+| Ann Engelbrecht | Owner & Lead Designer, Sprout Fine Floral Concepts | “My heart took delight in all my work, and this was the reward for all my labor.” | efounder.club/florist-booked-solid |
+| Daniel Brady | Owner, Heavenly Hammocks & Swings | “The key to success: persistence and incremental improvements. If you’re making regular small improvements, you should be out-competing many of your competitors.” | efounder.club/second-store-lessons |
+| Jianshuang Lai | Owner and eCommerce Operator, Vornveil | “One distinctive piece can change the whole outfit. It should still feel like you.” | efounder.club/honest-jewelry-curation |
+
 
 ---
 
@@ -26,7 +34,7 @@ Every PDF is 6 pages. Every thumbnail is 1200 x 630 px. Form fields: Name, Email
 | Description | When only a few people find your store, each one matters. Eight small, no-code steps so your next holiday shopper sees your products, not a loading page. Plus a stranger's-eye walk-through of your store and lessons from real founders. |
 | Short description | Make sure the few shoppers you get don't leave before your page opens. |
 | What the store owner is facing | When only a few people find your store each day, every one of them matters. If your page is slow on their phone, they leave before they see a single product. Over the holidays, that's the sale you were waiting for. |
-| Inside | 8 shared steps, lessons from Jianshuang Lai, Vornveil; Octavian Contis, oContis Studio; Daniel Brady, Heavenly Hammocks & Swings, and Your Small-Store Toolkit |
+| Inside | 8 shared steps, founder lessons from Daniel Brady, Jianshuang Lai, Octavian Contis, and Your Small-Store Toolkit |
 | PDF file | eFounder-Holiday-Notes-The-First-Shopper.pdf |
 | Thumbnail file | efounder-the-first-shopper-thumbnail.png |
 | Thumbnail alt text | eFounder Holiday Notes, The First Shopper: an OPEN sign, an hourglass and a shopping bag |
@@ -52,7 +60,7 @@ Every PDF is 6 pages. Every thumbnail is 1200 x 630 px. Form fields: Name, Email
 | Description | Every app you added made sense at the time. Eight small, no-code steps to take the weight off your store before holiday shoppers arrive. Plus an app weigh-in worksheet and lessons from real founders. |
 | Short description | Take the weight off a growing store before the holiday rush. |
 | What the store owner is facing | As your store has grown, you've added apps, banners and pop-ups. Each one seemed small, but together they slow your pages down. Over the holidays, more shoppers arrive, and a heavy store turns some of them away. |
-| Inside | 8 shared steps, lessons from Octavian Contis, oContis Studio; Daniel Brady, Heavenly Hammocks & Swings, and Your Growing-Store Toolkit |
+| Inside | 8 shared steps, founder lessons from Octavian Contis, Daniel Brady, Jianshuang Lai, and Your Growing-Store Toolkit |
 | PDF file | eFounder-Holiday-Notes-The-Lighter-Store.pdf |
 | Thumbnail file | efounder-the-lighter-store-thumbnail.png |
 | Thumbnail alt text | eFounder Holiday Notes, The Lighter Store: a balance scale weighed down by app icons, with a feather on the light side |
@@ -78,7 +86,7 @@ Every PDF is 6 pages. Every thumbnail is 1200 x 630 px. Form fields: Name, Email
 | Description | Your biggest sale days deserve a calm store. Eight small, no-code steps to keep things quick and steady from the first sale to the last. Plus a sale-day run sheet and lessons from real founders. |
 | Short description | Keep a busy store calm and steady through every big holiday sale. |
 | What the store owner is facing | In the holiday rush, lots of shoppers arrive at the same time. A slow page, or a last-minute change on a sale day, can cost you more in an hour than it would have taken to avoid. A little care before each big sale keeps your best weeks safe. |
-| Inside | 8 shared steps, lessons from Jianshuang Lai, Vornveil; Ann Engelbrecht, Sprout Fine Floral Concepts; Octavian Contis, oContis Studio, and Your Busy-Store Toolkit |
+| Inside | 8 shared steps, founder lessons from Ann Engelbrecht, Daniel Brady, Octavian Contis, and Your Busy-Store Toolkit |
 | PDF file | eFounder-Holiday-Notes-The-Steady-Season.pdf |
 | Thumbnail file | efounder-the-steady-season-thumbnail.png |
 | Thumbnail alt text | eFounder Holiday Notes, The Steady Season: a snowflake, a padlock and a live sales line |
@@ -104,7 +112,7 @@ Every PDF is 6 pages. Every thumbnail is 1200 x 630 px. Form fields: Name, Email
 | Description | You're the whole team, and the inbox is full of the same questions. Eight warm, ready-to-send replies so you can answer in seconds and get your evenings back. Plus a twice-a-day inbox routine and lessons from real founders. |
 | Short description | Answer the same holiday questions in seconds when you're the whole team. |
 | What the store owner is facing | You answer every message yourself, in between packing orders, posting on social and everything else. Over the holidays, the same few questions come in again and again, and typing each answer eats time you don't have. |
-| Inside | 8 shared replies, lessons from Ann Engelbrecht, Sprout Fine Floral Concepts; Daniel Brady, Heavenly Hammocks & Swings, and Your One-Person Inbox Toolkit |
+| Inside | 8 shared replies, founder lessons from Ann Engelbrecht, Daniel Brady, Jianshuang Lai, and Your One-Person Inbox Toolkit |
 | PDF file | eFounder-Holiday-Notes-The-One-Person-Inbox.pdf |
 | Thumbnail file | efounder-the-one-person-inbox-thumbnail.png |
 | Thumbnail alt text | eFounder Holiday Notes, The One-Person Inbox: a crescent moon, a coffee mug and a pile of 60 messages |
@@ -130,7 +138,7 @@ Every PDF is 6 pages. Every thumbnail is 1200 x 630 px. Form fields: Name, Email
 | Description | More orders, more questions, the same number of hours. Eight ready-to-send holiday replies that keep your answers quick and kind as the messages grow. Plus a three-pile inbox method and lessons from real founders. |
 | Short description | Keep replies quick and kind as holiday messages pile up. |
 | What the store owner is facing | Holiday orders bring holiday questions. As messages pile up, replies get slower and shorter. Customers who don't hear back quickly write again, or ask for a refund. |
-| Inside | 8 shared replies, lessons from Daniel Brady, Heavenly Hammocks & Swings; Jianshuang Lai, Vornveil, and Your Growing-Inbox Toolkit |
+| Inside | 8 shared replies, founder lessons from Daniel Brady, Jianshuang Lai, Ann Engelbrecht, and Your Growing-Inbox Toolkit |
 | PDF file | eFounder-Holiday-Notes-The-Growing-Inbox.pdf |
 | Thumbnail file | efounder-the-growing-inbox-thumbnail.png |
 | Thumbnail alt text | eFounder Holiday Notes, The Growing Inbox: a tower of envelopes, a notification bell and a reply button |
@@ -156,7 +164,7 @@ Every PDF is 6 pages. Every thumbnail is 1200 x 630 px. Form fields: Name, Email
 | Description | When three people answer, customers can hear three different things. Eight shared holiday replies so your whole team gives the same answer and the same dates. Plus team reply rules and lessons from real founders. |
 | Short description | Help your whole team give every customer the same answer. |
 | What the store owner is facing | Over the holidays your inbox never stops, and more than one person may be answering it. Without ready replies, customers get different answers and different dates, and small mix-ups turn into complaints. |
-| Inside | 8 shared replies, lessons from Daniel Brady, Heavenly Hammocks & Swings; Ann Engelbrecht, Sprout Fine Floral Concepts, and Your Team Toolkit |
+| Inside | 8 shared replies, founder lessons from Daniel Brady, Ann Engelbrecht, Jianshuang Lai, and Your Team Toolkit |
 | PDF file | eFounder-Holiday-Notes-The-Same-Answer-Team.pdf |
 | Thumbnail file | efounder-the-same-answer-team-thumbnail.png |
 | Thumbnail alt text | eFounder Holiday Notes, The Same-Answer Team: three team chat bubbles joining into one answer, and a saved-replies tab |
