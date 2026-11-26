@@ -72,7 +72,35 @@ Research document saved to: ~/Documents/BlogResearch/...
 
 ## Pair it with write-article
 
-This skill is designed to work with a companion `/write-article` skill that reads the research and writes the full SEO-optimized article.
+`write-article/` is the companion skill. It writes the full article, engineered to be cited in Google AI Overviews, AI Mode, ChatGPT, Perplexity and Gemini answers. It can take the `/blog-research` report as input.
+
+The method comes from reverse-engineering two posts that are cited in AI answers:
+- AQe Digital, *A Comprehensive Guide To Building a Quick Commerce App For Your Business* (the "Build Guide" archetype)
+- MindInventory, *Voice Technology in Healthcare: Use Cases, EHR Integration, and Cost Guide* (the "Tech-in-Industry" archetype)
+
+```
+write-article/
+├── SKILL.md                         # 6-step workflow: brief → fan-out map → research → draft → score → deliver
+└── references/
+    ├── teardown.md                  # metrics, structure maps, quotes, and the mistakes to avoid
+    ├── section-templates.md         # skeletons for every section type, JSON-LD, AI-summary button URLs
+    └── qa-checklist.md              # 100-point AIO Citability Scorecard (ship at ≥ 85)
+```
+
+**Install:**
+
+```bash
+cp -r write-article ~/.claude/skills/write-article
+```
+
+**Use:**
+
+```
+/write-article voice AI agents for insurance claims
+/write-article how to build a telemedicine app
+```
+
+It writes `articles/<slug>.md` (the article) and `articles/<slug>-publish-pack.md` (SEO title, meta, JSON-LD, internal links, sources, image briefs, scorecard).
 
 ## Requirements
 
